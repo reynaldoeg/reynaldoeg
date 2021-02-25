@@ -9,16 +9,16 @@ Full Stack Web Deveoper (LAMP) 👋
 [![Laravel](https://img.shields.io/badge/-Laravel-fc3026?style=for-the-badge&logo=Laravel&logoColor=white)](https://laravel.com/)
 [![Magento](https://img.shields.io/badge/-Magento-fb7c16?style=for-the-badge&logo=Magento&logoColor=white)](https://magento.com/)
 [![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://www.linkedin.com/in/reynaldoeg/)
-[![JQuery](https://img.shields.io/badge/-JQuery-007396?style=for-the-badge&logo=JQuery&logoColor=white)](https://www.linkedin.com/in/reynaldoeg/)
+[![JQuery](https://img.shields.io/badge/-JQuery-007396?style=for-the-badge&logo=JQuery&logoColor=white)](https://jquery.com/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.linkedin.com/in/reynaldoeg/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://www.linkedin.com/in/reynaldoeg/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.linkedin.com/in/reynaldoeg/)
 
 
 ### **Databases**:
 
-[![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=SQL&logoColor=white)](https://jessicafarias.github.io/)
-[![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white)](https://jessicafarias.github.io/)
+[![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=SQL&logoColor=white)](https://www.microsoft.com/es-mx/sql-server/sql-server-2019)
+[![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
 
 <!--
