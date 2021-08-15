@@ -1,6 +1,10 @@
 ## Reynaldo Esparza García
 Full Stack Web Deveoper (LAMP) 👋
 
+- 🔭 I’m currently working on [GAIA](https://www.gaiadesign.com.mx/)
+- 🌱 I’m currently learning [CS CART](https://www.cs-cart.com/)
+- 📫 How to reach me: <reynaldoeg_esparza@hotmail.com>
+
 ## SKILLS
 ### **Code**:
 
@@ -19,6 +23,13 @@ Full Stack Web Deveoper (LAMP) 👋
 
 [![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=SQL&logoColor=white)](https://www.microsoft.com/es-mx/sql-server/sql-server-2019)
 [![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+
+### **Get in touch**:
+
+<p align="left">
+<a href="https://twitter.com/reynaldoeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reynaldoeg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/reynaldoeg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reynaldoeg" height="30" width="40" /></a>
+</p>
 
 
 <!--
