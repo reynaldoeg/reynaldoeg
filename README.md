@@ -31,6 +31,14 @@ Full Stack Web Deveoper (LAMP) 👋
 <a href="https://www.linkedin.com/in/reynaldoeg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reynaldoeg" height="30" width="40" /></a>
 </p>
 
+### **Reynaldo's GitHub Stats**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reynaldoeg&show_icons=true&locale=en&layout=compact" alt="reynaldoeg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reynaldoeg&show_icons=true&locale=en" alt="reynaldoeg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldoeg&theme=default" alt="reynaldoeg" /></p>
+
 
 <!--
 **reynaldoeg/reynaldoeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
