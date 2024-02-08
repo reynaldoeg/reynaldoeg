@@ -1,8 +1,8 @@
 ## Reynaldo Esparza García
 Full Stack Web Deveoper (LAMP) 👋
 
-- 🔭 I’m currently working on [GAIA](https://www.gaiadesign.com.mx/)
-- 🌱 I’m currently learning [CS CART](https://www.cs-cart.com/)
+- 🔭 I’m currently working on [WGU](https://www.wgu.edu/)
+- 🌱 I’m currently learning [Sales Force](https://www.salesforce.com/mx/)
 - 📫 How to reach me: <reynaldoeg_esparza@hotmail.com>
 
 ## SKILLS
